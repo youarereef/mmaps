@@ -1,1 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2022-04-09T13:54:34.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="_eJukkLF2J6yJn1nOH1P" version="17.4.2" type="github"><diagram id="HLAjMLQuUP7QNFvTdPfq" name="Page-1">xZNNT4QwEIZ/TY8m0OquexR21cSYmHDw3NBZ2qRQLEVgf71Fhi83GzUxMeHQeft2pn1mICzO2wfLS/lsBGhCA9EStieUhteUkv4LRDcot0EwCJlVAk2zkKgToDjaaiWgWhmdMdqpci2mpiggdSuNW2uate1o9LpqyTM4E5KU63P1VQkn8RV0O+uPoDI5Vg43u2En56MZX1JJLkyzkNiBsNga44ZV3sage3gjl+Hc/YXd6WIWCveTA3UGm9OT2ssXDnm5M1q/3V1hlneua3wwXtZ1I4FGKgdJydM+bnyXCYuky7WPQr/kVTlwP6oWfKkIM4J10F68ajgB8JMDJgdnO2/BA2yLzLovcbNoAUpyQX/UODY9mzLPXPwC0fwCE/0ek8/iZ9IH0T8AuwnXwCYSfw/Mh/PMfu4t/nx2+AA=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-02T09:57:48.541Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="p-JqGhzcJeyz4SpwM1Ey" version="17.4.3" type="github">
+  <diagram id="HLAjMLQuUP7QNFvTdPfq" name="Page-1">
+    <mxGraphModel dx="1327" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xdG7dzHvu11SJ7-hiyqb-7" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="xdG7dzHvu11SJ7-hiyqb-1" target="xdG7dzHvu11SJ7-hiyqb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xdG7dzHvu11SJ7-hiyqb-9" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xdG7dzHvu11SJ7-hiyqb-1" target="xdG7dzHvu11SJ7-hiyqb-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xdG7dzHvu11SJ7-hiyqb-10" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xdG7dzHvu11SJ7-hiyqb-1" target="xdG7dzHvu11SJ7-hiyqb-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xdG7dzHvu11SJ7-hiyqb-14" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#0000FF;" edge="1" parent="1" source="xdG7dzHvu11SJ7-hiyqb-1" target="xdG7dzHvu11SJ7-hiyqb-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xdG7dzHvu11SJ7-hiyqb-1" value="&lt;b&gt;БФ &quot;Елизавета&quot;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#0000ff&quot;&gt;elizaveta-fond.ru&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="140" width="530" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xdG7dzHvu11SJ7-hiyqb-15" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.006;entryY=0.446;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#0000FF;" edge="1" parent="1" source="xdG7dzHvu11SJ7-hiyqb-2" target="xdG7dzHvu11SJ7-hiyqb-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xdG7dzHvu11SJ7-hiyqb-2" value="&lt;b&gt;Страница/сайт проекта &quot;Добро на Донбассе&quot;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#0000ff&quot;&gt;dnd.elizaveta-fond.ru&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="140" y="190" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xdG7dzHvu11SJ7-hiyqb-16" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#0000FF;" edge="1" parent="1" source="xdG7dzHvu11SJ7-hiyqb-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xdG7dzHvu11SJ7-hiyqb-3" value="&lt;b&gt;Страница/сайт проекта&lt;/b&gt;&lt;b&gt;&amp;nbsp;&quot;Бисиклета&quot;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#0000ff&quot;&gt;bis.elizaveta-fond.ru&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="140" y="240" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xdG7dzHvu11SJ7-hiyqb-17" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.646;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#0000FF;" edge="1" parent="1" source="xdG7dzHvu11SJ7-hiyqb-4" target="xdG7dzHvu11SJ7-hiyqb-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xdG7dzHvu11SJ7-hiyqb-4" value="&lt;b&gt;Страница/сайт проекта&lt;/b&gt;&lt;b&gt;&amp;nbsp;&quot;Реальная Жизнь&quot;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#0000ff&quot;&gt;rj.elizaveta-fond.ru&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="290" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xdG7dzHvu11SJ7-hiyqb-12" value="&lt;b&gt;Страница/сайт для пожертвований онлайн&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#0000ff&quot;&gt;donate.elizaveta-fond.ru&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="200" width="160" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
