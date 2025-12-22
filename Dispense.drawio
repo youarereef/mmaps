@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Страница-1" id="8q4mf4vvrSu58_n68NoI">
-    <mxGraphModel dx="1598" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="3204" dy="1315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="swfw8pOOYsiGklIhARGd-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="История Израиля" vertex="1">
-          <mxGeometry height="30" width="120" x="345" y="665" as="geometry" />
+          <mxGeometry height="30" width="120" x="520" y="800" as="geometry" />
         </mxCell>
         <mxCell id="swfw8pOOYsiGklIhARGd-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#1A1A1A;gradientColor=#ffd966;strokeWidth=2;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 18px;&quot;&gt;Библия&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="200" x="50" y="420" as="geometry" />
@@ -99,7 +99,7 @@
           <mxGeometry height="100" width="100" x="-210" y="670" as="geometry" />
         </mxCell>
         <mxCell id="swfw8pOOYsiGklIhARGd-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ИУДАИЗМ" vertex="1">
-          <mxGeometry height="30" width="240" x="430" y="617.5" as="geometry" />
+          <mxGeometry height="30" width="240" x="464" y="617.5" as="geometry" />
         </mxCell>
         <mxCell id="swfw8pOOYsiGklIhARGd-32" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;i&gt;Вавилонский&lt;/i&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;500 г.н.э.&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="45" width="130" x="660" y="555" as="geometry" />
@@ -126,16 +126,16 @@
           <mxGeometry height="60" width="30" x="140" y="695" as="geometry" />
         </mxCell>
         <mxCell id="swfw8pOOYsiGklIhARGd-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Stephen Meyer" vertex="1">
-          <mxGeometry height="20" width="100" x="17" y="660" as="geometry" />
+          <mxGeometry height="20" width="100" x="17" y="630" as="geometry" />
         </mxCell>
         <mxCell id="swfw8pOOYsiGklIhARGd-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="John Lennox" vertex="1">
-          <mxGeometry height="20" width="100" x="17" y="685" as="geometry" />
+          <mxGeometry height="20" width="100" x="17" y="655" as="geometry" />
         </mxCell>
         <mxCell id="swfw8pOOYsiGklIhARGd-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Walter Veith" vertex="1">
-          <mxGeometry height="20" width="100" x="17" y="710" as="geometry" />
+          <mxGeometry height="20" width="100" x="17" y="750" as="geometry" />
         </mxCell>
         <mxCell id="swfw8pOOYsiGklIhARGd-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Daily Dose of Wisdom" vertex="1">
-          <mxGeometry height="20" width="127" x="-10" y="735" as="geometry" />
+          <mxGeometry height="20" width="127" x="-10" y="703" as="geometry" />
         </mxCell>
         <mxCell id="swfw8pOOYsiGklIhARGd-48" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;Каббала&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;(ХII-XIII вв&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Прованс и Испания)&lt;/font&gt;&lt;/span&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="190" x="920" y="210" as="geometry" />
@@ -147,7 +147,7 @@
           <mxGeometry height="220" width="170" x="1080" y="210" as="geometry" />
         </mxCell>
         <mxCell id="6BZhI4SXugmFhFmFh9K1-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sam Shamoun" vertex="1">
-          <mxGeometry height="20" width="100" x="17" y="760" as="geometry" />
+          <mxGeometry height="20" width="100" x="17" y="728" as="geometry" />
         </mxCell>
         <mxCell id="6BZhI4SXugmFhFmFh9K1-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="10 заповедей&lt;div&gt;Исх.20, Вт 5&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="70" y="530" as="geometry" />
@@ -171,6 +171,12 @@
         </mxCell>
         <mxCell id="6BZhI4SXugmFhFmFh9K1-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Греческие боги / Мифология" vertex="1">
           <mxGeometry height="30" width="120" x="-240" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="6BZhI4SXugmFhFmFh9K1-16" parent="1" style="text;whiteSpace=wrap;html=1;strokeColor=#0000FF;dashed=1;dashPattern=8 8;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Масоретский текст &lt;/b&gt;(МТ)- средневековая редакция древнееврейского текста Танаха, &lt;b&gt;признанная в раввинской традиции как единственный священный и канонический текст&lt;/b&gt;. Включает огласовки, акцентные знаки и примечания (масоры).&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;МАСОРЕТЫ - учёные-книжники 8-10 внэ в Тивериаде.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Тщательный контроль переписчиков по правилам масоры.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Является основой для большинства современных переводов В.Завета, включая Синодальный перевод, Библию Лютера и короля Якова.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="220" width="190" x="350" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="6BZhI4SXugmFhFmFh9K1-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="James Tour" vertex="1">
+          <mxGeometry height="20" width="100" x="17" y="678" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
