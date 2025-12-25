@@ -43,8 +43,8 @@
         <mxCell id="tSDp_-K--FODD2nsnXfY-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;лимит дохода &amp;lt; 60 млн. руб.&lt;/font&gt;" vertex="1">
           <mxGeometry height="20" width="140" x="420" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="tSDp_-K--FODD2nsnXfY-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;не переходят на обязательную уплату НДС&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="210" x="370" y="350" as="geometry" />
+        <mxCell id="tSDp_-K--FODD2nsnXfY-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=27;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;не переходят на обязательную уплату НДС&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px; color: rgb(204, 0, 0);&quot;&gt;кроме ИМПОРТНОГО и АГЕНТСКОГО НДС&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="44" width="240" x="570" y="241" as="geometry" />
         </mxCell>
         <mxCell id="tSDp_-K--FODD2nsnXfY-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=25;align=center;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;1) кол-во работников &amp;lt;5;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;2) все налоговые резиденты РФ&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;3) З/П на карту&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;4) Уплата фикс. страх. взносы на травматизм&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;5) не уплачивают страх.взносы за работников&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="66" width="246" x="360" y="280" as="geometry" />
