@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Страница-1" id="JWN9bMu0ipwF3fkJecea">
-    <mxGraphModel dx="1426" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="570" dy="336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,6 +104,18 @@
         </mxCell>
         <mxCell id="T3KWH8CpWHRbCEXDwliV-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Доля участия других орг-ций в Уст. Капитале &amp;lt;25%&lt;/font&gt;" vertex="1">
           <mxGeometry height="36" width="120" x="673" y="364" as="geometry" />
+        </mxCell>
+        <mxCell id="U5x_zAgrudp2gRwvR0UP-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="АКЦИОНЕРНОЕ&amp;nbsp;&lt;div&gt;ОБЩЕСТВО&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="110" x="650" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="U5x_zAgrudp2gRwvR0UP-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="ПАО" vertex="1">
+          <mxGeometry height="40" width="40" x="673" y="607" as="geometry" />
+        </mxCell>
+        <mxCell id="U5x_zAgrudp2gRwvR0UP-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="АО" vertex="1">
+          <mxGeometry height="40" width="40" x="742" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="U5x_zAgrudp2gRwvR0UP-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1. На прибыль 20% (3% в фед. 17% в бюджет субъекта РФ)&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;2. НДС 22%&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;3. 0-10% для некоторых товаров/услуг&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;4. На имущество орг-ции 0.1-2% от кадастровой ст-ти, установленной муниципальным образованием&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;5. На доходы физ.лиц 13% (с доходов сотрудников) и/или&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;35% с некоторых категорий доходов&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;6. Взносы на соц.страхование&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="190" width="180" x="180" y="660" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
