@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Страница-1" id="8q4mf4vvrSu58_n68NoI">
-    <mxGraphModel dx="3021" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2328" dy="2000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -192,20 +192,38 @@
         <mxCell id="6BZhI4SXugmFhFmFh9K1-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;10 заповедей&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Исх.20, Вт 5&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="73" x="97.5" y="507" as="geometry" />
         </mxCell>
-        <mxCell id="oXWOiS3n67Rh-4YMzhQA-7" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="20" y="400" as="sourcePoint" />
-            <mxPoint x="70" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oXWOiS3n67Rh-4YMzhQA-8" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" value="" vertex="1">
-          <mxGeometry height="100" width="70" x="10" y="320" as="geometry" />
-        </mxCell>
         <mxCell id="oXWOiS3n67Rh-4YMzhQA-10" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-620" y="761" as="sourcePoint" />
+            <mxPoint x="-620" y="930" as="sourcePoint" />
             <mxPoint x="-620" y="-170" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="oXWOiS3n67Rh-4YMzhQA-11" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-634" y="517" as="sourcePoint" />
+            <mxPoint x="-606" y="517" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXWOiS3n67Rh-4YMzhQA-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="0-33&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="-677" y="502" as="geometry" />
+        </mxCell>
+        <mxCell id="oXWOiS3n67Rh-4YMzhQA-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Иисус Христос" vertex="1">
+          <mxGeometry height="30" width="60" x="-600" y="502" as="geometry" />
+        </mxCell>
+        <mxCell id="oXWOiS3n67Rh-4YMzhQA-14" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-635" y="460" as="sourcePoint" />
+            <mxPoint x="-607" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXWOiS3n67Rh-4YMzhQA-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="70" vertex="1">
+          <mxGeometry height="30" width="60" x="-677" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="oXWOiS3n67Rh-4YMzhQA-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Разрушение Иерусалимского Храма" vertex="1">
+          <mxGeometry height="30" width="144" x="-624" y="446" as="geometry" />
+        </mxCell>
+        <mxCell id="oXWOiS3n67Rh-4YMzhQA-17" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: Roboto; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Согласно пророку Иеремии, 1й Храм царя Соломона, был разрушен тоже девятого ава (586 год до н. э.) по приказу вавилонского царя Навуходоносора. Но прошло полвека, персидский царь Кир, покоривший Вавилон, вернул евреев в родные края, и те вновь воздвигли Храм на старом месте.&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="130" width="227" x="-598" y="690" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
