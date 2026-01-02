@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Страница-1" id="8q4mf4vvrSu58_n68NoI">
-    <mxGraphModel dx="2328" dy="2000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="3021" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,16 +24,8 @@
         <mxCell id="swfw8pOOYsiGklIhARGd-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="&lt;b&gt;Вульгата&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;(IV-V в.н.э.)&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="-170" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="B7LTwOetQJIeRQ82Q9bG-1" edge="1" parent="1" source="swfw8pOOYsiGklIhARGd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="6BZhI4SXugmFhFmFh9K1-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="swfw8pOOYsiGklIhARGd-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="&lt;b&gt;Септуагинта (LXX)&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;III-I в до нэ в Александрии (Египет)&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="184" x="-120" y="475" as="geometry" />
-        </mxCell>
-        <mxCell id="6BZhI4SXugmFhFmFh9K1-2" edge="1" parent="1" source="swfw8pOOYsiGklIhARGd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="134" y="530" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="B7LTwOetQJIeRQ82Q9bG-2" edge="1" parent="1" source="swfw8pOOYsiGklIhARGd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="swfw8pOOYsiGklIhARGd-35">
           <mxGeometry relative="1" as="geometry" />
@@ -161,14 +153,11 @@
         <mxCell id="6BZhI4SXugmFhFmFh9K1-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#f9f7ed;align=center;verticalAlign=middle;rounded=0;" value="Sam Shamoun" vertex="1">
           <mxGeometry height="20" width="100" x="467" y="-75" as="geometry" />
         </mxCell>
-        <mxCell id="6BZhI4SXugmFhFmFh9K1-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;10 заповедей&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Исх.20, Вт 5&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="73" x="97.5" y="530" as="geometry" />
-        </mxCell>
         <mxCell id="6BZhI4SXugmFhFmFh9K1-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Латинский перевод Библии.&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Официальный текст Римско-Католической церкви.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Создан Иероним Стридонский по заказу Дамасий 1 (римский папа)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="160" x="-270" y="170" as="geometry" />
         </mxCell>
         <mxCell id="6BZhI4SXugmFhFmFh9K1-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#f9f7ed;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Древнегреческий перевод ТАНАХА (ВЗ). Выполнен в эллинистическую эпоху.&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Был основным ВЗ текстом для грекоязычных евреев и первых христиан.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- С. основана на древних еврейских текстах, которые не всегда совпадают с &lt;b style=&quot;background-color: rgb(255, 229, 153);&quot;&gt;масоретским&lt;/b&gt; текстом, использующимся сегодня. Септуагинта включает книги, отсутствующие в еврейском каноне, например Премудрости Соломона и Сирах.&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;-&amp;nbsp; С. имела значение для ранних христиан и была широко распространена в восточной части христианского мира.&lt;/font&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="114" width="380" x="-430" y="516" as="geometry" />
+          <mxGeometry height="114" width="380" x="-281" y="517" as="geometry" />
         </mxCell>
         <mxCell id="6BZhI4SXugmFhFmFh9K1-16" parent="1" style="text;whiteSpace=wrap;html=1;strokeColor=#0000FF;dashed=1;dashPattern=8 8;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Масоретский текст &lt;/b&gt;(МТ)- средневековая редакция древнееврейского текста Танаха, &lt;b&gt;признанная в раввинской традиции как единственный священный и канонический текст&lt;/b&gt;. Включает огласовки, акцентные знаки и примечания (масоры).&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;МАСОРЕТЫ - учёные-книжники 8-10 внэ в Тивериаде.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Тщательный контроль переписчиков по правилам масоры.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Является основой для большинства современных переводов В.Завета, включая Синодальный перевод, Библию Лютера и короля Якова.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="215" width="190" x="350" y="270" as="geometry" />
@@ -189,7 +178,7 @@
           <mxGeometry height="40" width="100" x="-100" y="420" as="geometry" />
         </mxCell>
         <mxCell id="oXWOiS3n67Rh-4YMzhQA-1" parent="1" style="text;fontSize=10;fillColor=#f9f7ed;strokeColor=#36393d;" value="ФОРМИРОВАНИЕ ВЗ КАНОНА&#xa;3) к началу II века н.э. был завершён раздел Писаний;&#xa;2) к 323 году до н.э. сформировался канон Пророков;&#xa;1) ~ до VI века до н.э. был сформирован канон Торы;&#xa;" vertex="1">
-          <mxGeometry height="60" width="260" x="-430" y="640" as="geometry" />
+          <mxGeometry height="60" width="260" x="-89.5" y="617.5" as="geometry" />
         </mxCell>
         <mxCell id="oXWOiS3n67Rh-4YMzhQA-3" parent="1" style="text;whiteSpace=wrap;fontSize=12;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font&gt;Формирование НЗ канона:&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;6) 1672 Иерусалимский собор - утверждение православного ВЗ канона (49 книг ВЗ)&lt;br&gt;&lt;font style=&quot;&quot;&gt;5) 1546 Тридентский собор - официальное закрепление канона Католической церковью.&lt;/font&gt;&lt;br&gt;4) III-IV века — окончательное формирование и утверждение канона, включая послание Афанасия Великого (367 г.) и решения Вселенских соборов.&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;3) 150 и 200 гг. — появление первых систематизированных списков канона;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;&quot;&gt;2)&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;конец I — сер. II вв - п&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ериод мужей апостольских — распространение и использование первых списков;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1) Апостольский период (I в) — формирование и появление первых священных текстов;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="230" width="270" x="-40" y="10" as="geometry" />
@@ -199,6 +188,9 @@
         </mxCell>
         <mxCell id="swfw8pOOYsiGklIhARGd-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;rounded=0;fontColor=#333333;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Еврейская Библия, священный канон иудаизма.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Древнееврейский и Арамейский.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;1) &lt;b&gt;Тора&lt;/b&gt; (закон) - пятикнижие Моисея.Письменная ТОРА.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;2) &lt;b&gt;Невиим&lt;/b&gt; (Пророки)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;3) &lt;b&gt;Ктувим&lt;/b&gt; (Писания) - поэтические и мудрые книги.&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="270" x="220" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="6BZhI4SXugmFhFmFh9K1-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;10 заповедей&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Исх.20, Вт 5&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="73" x="97.5" y="507" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
