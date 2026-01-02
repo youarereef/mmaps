@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Страница-1" id="8q4mf4vvrSu58_n68NoI">
-    <mxGraphModel dx="3021" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1883" dy="1753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -281,6 +281,18 @@
         </mxCell>
         <mxCell id="oXWOiS3n67Rh-4YMzhQA-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;1й Крестовый Поход.&lt;/span&gt;" vertex="1">
           <mxGeometry height="28" width="111.25" x="-611.25" y="8" as="geometry" />
+        </mxCell>
+        <mxCell id="oXWOiS3n67Rh-4YMzhQA-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1701" vertex="1">
+          <mxGeometry height="30" width="60" x="-677" y="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="oXWOiS3n67Rh-4YMzhQA-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Церковные реформы Петра 1 для снижения влияния церкви, её независимости и для усиления контроля над админ. и финанс. вопросами.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Ликвидация должности Патриарха.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Утверждение нового высшего церковного органа Святейшего правительствующего Синода (Духовной коллегии)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="270" x="-610" y="-100" as="geometry" />
+        </mxCell>
+        <mxCell id="oXWOiS3n67Rh-4YMzhQA-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Причины:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;1. &lt;b&gt;Политические. &lt;/b&gt;Централизация власти и ликвидация самостоятельных структур, потенциальных угроз для его политич. курса.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;2. &lt;b&gt;Экономические. &lt;/b&gt;Огромные ресурсы церкви находились вне контроля гос-ва. П1 искал средства для финанс-ния масштабных гос.проектов - строительство флота и реформа армии.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;3. &lt;b&gt;ВнутриЦерковные.&lt;/b&gt; Низкий уровень образования духовенства, отсутствие унифицированного управления, растущая бюрократизация.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="123" width="390" x="-380" y="-233" as="geometry" />
+        </mxCell>
+        <mxCell id="oXWOiS3n67Rh-4YMzhQA-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;ЗАДАЧИ:&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;1.Ликвидация экономической и административной автономии - подробная ревизия имущества, внедрение должностей, назначаемых гос.аппаратом, чёткое регламентирование финансовых потоков и обязанностей, возлагаемых на церковь.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;2. Снижение численности духовенства - определение необходимого кол-ва церковников и монахов, исходя из числа обслуживаемых граждан, ограничение странствующих священников и запрет на строительство монастырей.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="123" width="390" x="-361.75" y="-370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
