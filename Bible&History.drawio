@@ -285,38 +285,55 @@
         <mxCell id="oXWOiS3n67Rh-4YMzhQA-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1701" vertex="1">
           <mxGeometry height="30" width="60" x="-677" y="-80" as="geometry" />
         </mxCell>
-        <mxCell id="6oppAw7N4tsvQFp5RQPV-4" edge="1" parent="1" source="oXWOiS3n67Rh-4YMzhQA-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#99CCFF;" target="oXWOiS3n67Rh-4YMzhQA-45">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="sZ3PoIQXRdnX2hJ63hTC-3" edge="1" parent="1" source="oXWOiS3n67Rh-4YMzhQA-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#99CCFF;" target="oXWOiS3n67Rh-4YMzhQA-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-420" y="-96" />
+              <mxPoint x="-420" y="-157" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="oXWOiS3n67Rh-4YMzhQA-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Церковные реформы П1 для снижения влияния Ц, её независимости и для усиления контроля над админ. и фин. вопросами.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Ликвидация должности Патриарха.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Утверждение нового высшего Ц органа Святейшего правительствующего Синода (Духовной коллегии)&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="230" x="-610" y="-96" as="geometry" />
+          <mxGeometry height="100" width="250" x="-610" y="-96" as="geometry" />
         </mxCell>
         <mxCell id="6oppAw7N4tsvQFp5RQPV-3" edge="1" parent="1" source="oXWOiS3n67Rh-4YMzhQA-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#99CCFF;" target="oXWOiS3n67Rh-4YMzhQA-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oXWOiS3n67Rh-4YMzhQA-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;ПРИЧИНЫ:&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;1. &lt;/span&gt;&lt;b&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Политические&lt;/span&gt;. &lt;/b&gt;Централизация власти и ликвидация самостоятельных структур, потенциальных угроз для его пол. курса.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;2. &lt;b&gt;Экономические. &lt;/b&gt;Огромные ресурсы Ц. находились вне контроля гос-ва. П1 искал средства для финанс-ния масштабных гос.проектов - строительство флота и реформа армии.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;3. &lt;b&gt;ВнутриЦерковные.&lt;/b&gt; Низкий уровень образования духовенства, отсутствие унифицированного управления, растущая бюрократизация.&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="123" width="360" x="-550" y="-231" as="geometry" />
+          <mxGeometry height="123" width="360" x="-390" y="-219" as="geometry" />
         </mxCell>
         <mxCell id="6oppAw7N4tsvQFp5RQPV-6" edge="1" parent="1" source="oXWOiS3n67Rh-4YMzhQA-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#99CCFF;" target="6oppAw7N4tsvQFp5RQPV-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oXWOiS3n67Rh-4YMzhQA-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;ЗАДАЧИ:&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;&quot;&gt;1.Ликвидация эконом. и админ. автономии&lt;/b&gt; - подробная ревизия имущ-ва, внедрение должностей, назначаемых гос.аппаратом, чёткое регламентирование фин. потоков и обязанностей, возлагаемых на Ц.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;2. Снижение числа духовенства&lt;/b&gt; - определение необходимого кол-ва церковников и монахов, исходя из числа обслуживаемых граждан, ограничение странствующих священников и запрет на стр-во монастырей.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 10px;&quot;&gt;&lt;strong style=&quot;font-family: &amp;quot;YS Text&amp;quot;, -apple-system, BlinkMacSystemFont, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;3, Обязанность духовенства выполнять некоторые админ. и, до известной степени, полит. функции&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;YS Text&amp;quot;, -apple-system, BlinkMacSystemFont, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;— например, на приходское духовенство была возложена обязанность объявлять прихожанам все гос. законы во время Вс. службы.&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="170" width="377" x="-504" y="-392" as="geometry" />
+          <mxGeometry height="170" width="417" x="-327" y="-370" as="geometry" />
         </mxCell>
         <mxCell id="Lw9kpsGTWNACUD5vBf4G-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;" value="AD" vertex="1">
-          <mxGeometry height="30" width="60" x="-737" y="480" as="geometry" />
+          <mxGeometry height="30" width="33" x="-710" y="480" as="geometry" />
         </mxCell>
         <mxCell id="Lw9kpsGTWNACUD5vBf4G-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="BC" vertex="1">
-          <mxGeometry height="30" width="60" x="-737" y="535" as="geometry" />
+          <mxGeometry height="30" width="33" x="-710" y="535" as="geometry" />
         </mxCell>
         <mxCell id="6oppAw7N4tsvQFp5RQPV-8" edge="1" parent="1" source="6oppAw7N4tsvQFp5RQPV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#99CCFF;" target="6oppAw7N4tsvQFp5RQPV-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6oppAw7N4tsvQFp5RQPV-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;МЕРОПРИЯТИЯ:&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;1. Ликвидация должности патриарха&lt;/b&gt;&amp;nbsp;- после смерти патриарха Адриана в 1700 г. П1 решил не назначать нового патриарха, временно передав управление Ц. местоблюстителю.&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;2. Утверждение нового высшего Ц органа - Святейший правительствующий Синод (Духовная Коллегия) &lt;/b&gt;(1721 - 1917). Члены Синода назначались императором, приносили ему присягу.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;3. Учреждение должности обер-прокурора&lt;/b&gt; для надзора за деятельностью Синода (1722).&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;4. Секуляризация (изъятие в гос.оборот) Ц.&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;и монастырских земель и крестьян&lt;/b&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; - это ликвидировало финанс. автономию церкви.&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="170" width="340" x="-470" y="-560" as="geometry" />
+          <mxGeometry height="170" width="448.5" x="-274.25" y="-510" as="geometry" />
         </mxCell>
-        <mxCell id="6oppAw7N4tsvQFp5RQPV-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;ИТОГИ:&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;1. Установление светского (человеческого)&amp;nbsp; контроля над Ц. - &lt;/b&gt;священники и монахи превратились в чиновников по духовному делу.&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;2. Частичная потеря Ц. авторитета в обществе - утрата возможности Ц. влиять на гос.власть усилила деспотизм самодержавия.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;3. Сокращение числа священников и монахов - П1 считал их бесполезными для гос-ва.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;4. Ц. утратила возможность препятствовать развитию светского образования, науки и искусства.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;5. Достоевский &quot; С Петра Великого церковь у нас в параличе.&quot;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="170" width="330" x="-450" y="-723" as="geometry" />
+        <mxCell id="6oppAw7N4tsvQFp5RQPV-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;ИТОГИ:&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;1. Установление светского (человеческого)&amp;nbsp; контроля над Ц. - &lt;/b&gt;священники и монахи превратились в чиновников по духовному делу.&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;2. Частичная потеря Ц. авторитета в обществе - утрата возможности Ц. влиять на гос.власть усилила деспотизм самодержавия.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;3. Сокращение числа священников и монахов - П1 считал их бесполезными для гос-ва.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;4. Ц. утратила возможность препятствовать развитию светского образования, науки и искусства.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;5. Достоевский &quot; С Петра Великого Ц. у нас в параличе.&quot;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="460" x="-210" y="-640" as="geometry" />
+        </mxCell>
+        <mxCell id="sZ3PoIQXRdnX2hJ63hTC-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1917" vertex="1">
+          <mxGeometry height="30" width="60" x="-680" y="-219" as="geometry" />
+        </mxCell>
+        <mxCell id="sZ3PoIQXRdnX2hJ63hTC-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-620" y="930" as="sourcePoint" />
+            <mxPoint x="-620" y="-780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sZ3PoIQXRdnX2hJ63hTC-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#FFFAEB;align=left;verticalAlign=middle;rounded=0;rotation=-90;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Синодальный период РПЦ&lt;/span&gt;" vertex="1">
+          <mxGeometry height="28" width="130" x="-742" y="-148" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
