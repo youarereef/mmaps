@@ -293,8 +293,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oXWOiS3n67Rh-4YMzhQA-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Церковные реформы П1 для снижения влияния Ц, её независимости и для усиления контроля над админ. и фин. вопросами.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Ликвидация должности Патриарха.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Утверждение нового высшего Ц органа Святейшего правительствующего Синода (Духовной коллегии)&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="250" x="-610" y="-96" as="geometry" />
+        <mxCell id="oXWOiS3n67Rh-4YMzhQA-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Церковные реформы П1 для снижения влияния Ц, её независимости и для усиления контроля над админ. и фин. вопросами.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Ликвидация должности Патриарха.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="76" width="250" x="-611.25" y="-96" as="geometry" />
         </mxCell>
         <mxCell id="6oppAw7N4tsvQFp5RQPV-3" edge="1" parent="1" source="oXWOiS3n67Rh-4YMzhQA-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#99CCFF;" target="oXWOiS3n67Rh-4YMzhQA-48">
           <mxGeometry relative="1" as="geometry" />
@@ -324,7 +324,7 @@
           <mxGeometry height="170" width="460" x="-210" y="-640" as="geometry" />
         </mxCell>
         <mxCell id="sZ3PoIQXRdnX2hJ63hTC-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1917" vertex="1">
-          <mxGeometry height="30" width="60" x="-680" y="-219" as="geometry" />
+          <mxGeometry height="30" width="60" x="-680" y="-280" as="geometry" />
         </mxCell>
         <mxCell id="sZ3PoIQXRdnX2hJ63hTC-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -333,7 +333,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sZ3PoIQXRdnX2hJ63hTC-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#FFFAEB;align=left;verticalAlign=middle;rounded=0;rotation=-90;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Синодальный период РПЦ&lt;/span&gt;" vertex="1">
-          <mxGeometry height="28" width="130" x="-742" y="-148" as="geometry" />
+          <mxGeometry height="28" width="130" x="-739" y="-208" as="geometry" />
+        </mxCell>
+        <mxCell id="sZ3PoIQXRdnX2hJ63hTC-5" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Утверждение нового высшего Ц органа Святейшего правительствующего Синода (Духовной коллегии)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="199" x="-609" y="-151" as="geometry" />
+        </mxCell>
+        <mxCell id="sZ3PoIQXRdnX2hJ63hTC-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1721" vertex="1">
+          <mxGeometry height="30" width="60" x="-679" y="-143" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
