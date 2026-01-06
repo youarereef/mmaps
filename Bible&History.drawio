@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Страница-1" id="8q4mf4vvrSu58_n68NoI">
-    <mxGraphModel dx="3379" dy="3280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2784" dy="2955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -399,6 +399,12 @@
         </mxCell>
         <mxCell id="fVeLvVwaFz4HZRmBEbl0-18" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font color=&quot;#161616&quot; face=&quot;Roboto&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: rgb(255, 255, 255);&quot;&gt;РУСЬ. Первая печатная книга &quot;Апостол&quot;, изданная Иван Фёдоров и Пётр Мстиславец в Москве.&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="54" width="242.5" x="-905" y="-207.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fVeLvVwaFz4HZRmBEbl0-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="868" vertex="1">
+          <mxGeometry height="30" width="60" x="-980" y="83" as="geometry" />
+        </mxCell>
+        <mxCell id="fVeLvVwaFz4HZRmBEbl0-21" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font color=&quot;#161616&quot; face=&quot;Roboto&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: rgb(255, 255, 255);&quot;&gt;КИТАЙ. Появление книгопечатания - ксилография. Буддийская &quot;Алмазная Сутра&quot; - старейшая,&amp;nbsp; точно датированная, полностью сохранившаяся печатная К.&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="73" width="235" x="-915" y="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
