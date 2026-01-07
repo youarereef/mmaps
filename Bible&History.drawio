@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.10">
   <diagram name="Страница-1" id="8q4mf4vvrSu58_n68NoI">
-    <mxGraphModel dx="2682" dy="2991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2682" dy="3007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -457,8 +457,8 @@
         <mxCell id="igfKNtv4U3RltY7vNehF-11" parent="1" style="text;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font color=&quot;#0000cc&quot; face=&quot;Roboto&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: rgb(255, 255, 255);&quot;&gt;Жена 1 - Евдокия Фёдоровна Лопухина.&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#0000cc&quot; face=&quot;Roboto&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: rgb(255, 255, 255);&quot;&gt;Сын: Алексей Петрович&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="39" width="190" x="-990" y="-449" as="geometry" />
         </mxCell>
-        <mxCell id="igfKNtv4U3RltY7vNehF-12" parent="1" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;font color=&quot;#0000cc&quot; face=&quot;Roboto&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: rgb(255, 255, 255);&quot;&gt;Жена 2 - Марта Самуиловна Скавронская = Екатерина 1&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="36" width="151.5" x="-915" y="-501" as="geometry" />
+        <mxCell id="igfKNtv4U3RltY7vNehF-12" parent="1" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;font color=&quot;#0000cc&quot; face=&quot;Roboto&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: rgb(255, 255, 255);&quot;&gt;Жена 2 - &lt;b&gt;Марта Самуиловна Скавронская = Екатерина 1 - &lt;/b&gt;правила с 1725 по 1727&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="63" width="151.5" x="-915" y="-560" as="geometry" />
         </mxCell>
         <mxCell id="igfKNtv4U3RltY7vNehF-14" edge="1" parent="1" source="I0DwLSfUqMpc32dEvuaQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.858;entryY=0.953;entryDx=0;entryDy=0;entryPerimeter=0;" target="igfKNtv4U3RltY7vNehF-11">
           <mxGeometry relative="1" as="geometry" />
