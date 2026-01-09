@@ -467,219 +467,288 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;РЮРИКОВИЧИ&lt;/b&gt; - династия, основанная князем Рюриком, правившая на Руси с 9 до конца 16 века. Сыграли ключевую роль в формировании древнерус. гос-ва и его последующих княжеств.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;862&lt;/b&gt; г - Рюрик, в&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 230, 204);&quot;&gt;&quot;Повесть временных лет&quot;&lt;/span&gt;, призван славян. и финно-угор. племенами на княжение в Новгороде.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Рюриковичи правили Киевской Русью (от Олега Вещего до Ярослава Мудрого), затем раздробленными княжествами (Черниговское, Суздальское, Галицо-Волынское).&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;В Московии они сосредоточили власть при Иване 3 и Иване 4 (Грозный), приняв царский титул в 1547.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;1598&lt;/b&gt; - Династия прекратилась со смертью Фёдора 1.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Основные ветви:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Святославичи - прямая линия Рюрика, князь Владмир крестил Русь.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Мономаховичи - потомки Владимира Мономаха, включая Юрия Долгорукова и московских князей.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Ольговичи - Черниговская и Новгород-Северская ветвь;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Ростиславичи - Смоленские и Галицкие князья.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Раздробление на ветви привело к междуусобицам, но Рюриковичи правили более 700 лет.&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="180" width="525" x="-1540" y="10" as="geometry" />
+          <mxGeometry height="180" width="525" x="-1550" y="38" as="geometry" />
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-32" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font color=&quot;#161616&quot; face=&quot;Roboto&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: rgb(255, 255, 255);&quot;&gt;ВЛАДИМИР Святославич, крестил Русь в 988 г. был Рюриковичем. Правил Новгородом с 970 г., Киевом с 978 г. до смерти в 1015 г.&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#161616&quot; face=&quot;Roboto&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: rgb(255, 255, 255);&quot;&gt;Сын Святослава Игоревича и Малуши (ключница княгини Ольги), внук Игоря Рюриковича, правнук Рюрика.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#161616&quot; face=&quot;Roboto&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: rgb(255, 255, 255);&quot;&gt;До крещения Руси проводил языческую реформу, устанавливая пантеон богов. Принятие христианства от Византии укрепило Киевскую Русь, сделав её частью европейской христианской цивилизации.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="109" width="490" x="-1552" y="221" as="geometry" />
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-2" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="180" width="333" x="-1600" y="-190" as="geometry" />
+          <mxGeometry height="240" width="353" x="-1620" y="-230" as="geometry" />
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-3" parent="4hr_TFfe103dyEPW8xxa-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="20" width="333" as="geometry" />
+          <mxGeometry height="20" width="353" as="geometry" />
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-4" parent="4hr_TFfe103dyEPW8xxa-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#FFE6CC;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Правитель&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="83" as="geometry">
-            <mxRectangle height="20" width="83" as="alternateBounds" />
+          <mxGeometry height="20" width="88" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-5" parent="4hr_TFfe103dyEPW8xxa-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#FFE6CC;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Правление&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="84" x="83" as="geometry">
-            <mxRectangle height="20" width="84" as="alternateBounds" />
+          <mxGeometry height="20" width="89" x="88" as="geometry">
+            <mxRectangle height="20" width="89" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-6" parent="4hr_TFfe103dyEPW8xxa-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#FFE6CC;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Династия&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="83" x="167" as="geometry">
-            <mxRectangle height="20" width="83" as="alternateBounds" />
+          <mxGeometry height="20" width="88" x="177" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-33" parent="4hr_TFfe103dyEPW8xxa-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#FFE6CC;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
-          <mxGeometry height="20" width="83" x="250" as="geometry">
-            <mxRectangle height="20" width="83" as="alternateBounds" />
+          <mxGeometry height="20" width="88" x="265" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hr_TFfe103dyEPW8xxa-55" parent="4hr_TFfe103dyEPW8xxa-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="20" width="353" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4hr_TFfe103dyEPW8xxa-56" parent="4hr_TFfe103dyEPW8xxa-55" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;П1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="88" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hr_TFfe103dyEPW8xxa-57" parent="4hr_TFfe103dyEPW8xxa-55" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1696-1725&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="89" x="88" as="geometry">
+            <mxRectangle height="20" width="89" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hr_TFfe103dyEPW8xxa-58" parent="4hr_TFfe103dyEPW8xxa-55" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=2;colspan=1;" vertex="1">
+          <mxGeometry height="40" width="88" x="177" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hr_TFfe103dyEPW8xxa-59" parent="4hr_TFfe103dyEPW8xxa-55" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
+          <mxGeometry height="20" width="88" x="265" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hr_TFfe103dyEPW8xxa-50" parent="4hr_TFfe103dyEPW8xxa-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="20" width="353" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4hr_TFfe103dyEPW8xxa-51" parent="4hr_TFfe103dyEPW8xxa-50" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;П1+И5, но Софья&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="88" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hr_TFfe103dyEPW8xxa-52" parent="4hr_TFfe103dyEPW8xxa-50" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1682-96&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="89" x="88" as="geometry">
+            <mxRectangle height="20" width="89" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hr_TFfe103dyEPW8xxa-53" parent="4hr_TFfe103dyEPW8xxa-50" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" visible="0">
+          <mxGeometry height="20" width="88" x="177" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hr_TFfe103dyEPW8xxa-54" parent="4hr_TFfe103dyEPW8xxa-50" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
+          <mxGeometry height="20" width="88" x="265" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-45" parent="4hr_TFfe103dyEPW8xxa-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="20" width="333" y="20" as="geometry" />
+          <mxGeometry height="20" width="353" y="60" as="geometry" />
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-46" parent="4hr_TFfe103dyEPW8xxa-45" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Фёдор 3&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="83" as="geometry">
-            <mxRectangle height="20" width="83" as="alternateBounds" />
+          <mxGeometry height="20" width="88" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-47" parent="4hr_TFfe103dyEPW8xxa-45" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1676-82&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="84" x="83" as="geometry">
-            <mxRectangle height="20" width="84" as="alternateBounds" />
+          <mxGeometry height="20" width="89" x="88" as="geometry">
+            <mxRectangle height="20" width="89" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-48" parent="4hr_TFfe103dyEPW8xxa-45" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
-          <mxGeometry height="20" width="83" x="167" as="geometry">
-            <mxRectangle height="20" width="83" as="alternateBounds" />
+          <mxGeometry height="20" width="88" x="177" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-49" parent="4hr_TFfe103dyEPW8xxa-45" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
-          <mxGeometry height="20" width="83" x="250" as="geometry">
-            <mxRectangle height="20" width="83" as="alternateBounds" />
+          <mxGeometry height="20" width="88" x="265" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-40" parent="4hr_TFfe103dyEPW8xxa-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="20" width="333" y="40" as="geometry" />
+          <mxGeometry height="20" width="353" y="80" as="geometry" />
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-41" parent="4hr_TFfe103dyEPW8xxa-40" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Алексей Мих-ч&amp;nbsp;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="83" as="geometry">
-            <mxRectangle height="20" width="83" as="alternateBounds" />
+          <mxGeometry height="20" width="88" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-42" parent="4hr_TFfe103dyEPW8xxa-40" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1645-76&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="84" x="83" as="geometry">
-            <mxRectangle height="20" width="84" as="alternateBounds" />
+          <mxGeometry height="20" width="89" x="88" as="geometry">
+            <mxRectangle height="20" width="89" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-43" parent="4hr_TFfe103dyEPW8xxa-40" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=2;colspan=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Романовы&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="83" x="167" as="geometry">
-            <mxRectangle height="20" width="83" as="alternateBounds" />
+          <mxGeometry height="40" width="88" x="177" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-44" parent="4hr_TFfe103dyEPW8xxa-40" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
-          <mxGeometry height="20" width="83" x="250" as="geometry">
-            <mxRectangle height="20" width="83" as="alternateBounds" />
+          <mxGeometry height="20" width="88" x="265" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-7" parent="4hr_TFfe103dyEPW8xxa-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="20" width="333" y="60" as="geometry" />
+          <mxGeometry height="20" width="353" y="100" as="geometry" />
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-8" parent="4hr_TFfe103dyEPW8xxa-7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Михаил Романов&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="83" as="geometry">
-            <mxRectangle height="20" width="83" as="alternateBounds" />
+          <mxGeometry height="20" width="88" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-9" parent="4hr_TFfe103dyEPW8xxa-7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1613-45&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="84" x="83" as="geometry">
-            <mxRectangle height="20" width="84" as="alternateBounds" />
+          <mxGeometry height="20" width="89" x="88" as="geometry">
+            <mxRectangle height="20" width="89" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-10" parent="4hr_TFfe103dyEPW8xxa-7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Романовы&lt;/font&gt;" vertex="1" visible="0">
-          <mxGeometry height="20" width="83" x="167" as="geometry">
-            <mxRectangle height="20" width="83" as="alternateBounds" />
+          <mxGeometry height="20" width="88" x="177" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-34" parent="4hr_TFfe103dyEPW8xxa-7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
-          <mxGeometry height="20" width="83" x="250" as="geometry">
-            <mxRectangle height="20" width="83" as="alternateBounds" />
+          <mxGeometry height="20" width="88" x="265" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-11" parent="4hr_TFfe103dyEPW8xxa-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="20" width="333" y="80" as="geometry" />
+          <mxGeometry height="20" width="353" y="120" as="geometry" />
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-12" parent="4hr_TFfe103dyEPW8xxa-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Семибоярщина&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="83" as="geometry">
-            <mxRectangle height="20" width="83" as="alternateBounds" />
+          <mxGeometry height="20" width="88" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-13" parent="4hr_TFfe103dyEPW8xxa-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1610-13&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="84" x="83" as="geometry">
-            <mxRectangle height="20" width="84" as="alternateBounds" />
+          <mxGeometry height="20" width="89" x="88" as="geometry">
+            <mxRectangle height="20" width="89" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-14" parent="4hr_TFfe103dyEPW8xxa-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Бояре&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="83" x="167" as="geometry">
-            <mxRectangle height="20" width="83" as="alternateBounds" />
+          <mxGeometry height="20" width="88" x="177" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-35" parent="4hr_TFfe103dyEPW8xxa-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=5;colspan=1;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;СМУТНОЕ ВРЕМЯ завершено избранием Михаила Романова&amp;nbsp;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="100" width="83" x="250" as="geometry">
-            <mxRectangle height="20" width="83" as="alternateBounds" />
+          <mxGeometry height="100" width="88" x="265" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-15" parent="4hr_TFfe103dyEPW8xxa-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="20" width="333" y="100" as="geometry" />
+          <mxGeometry height="20" width="353" y="140" as="geometry" />
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-16" parent="4hr_TFfe103dyEPW8xxa-15" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Василий 4&amp;nbsp;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="83" as="geometry">
-            <mxRectangle height="20" width="83" as="alternateBounds" />
+          <mxGeometry height="20" width="88" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-17" parent="4hr_TFfe103dyEPW8xxa-15" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1606-10&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="84" x="83" as="geometry">
-            <mxRectangle height="20" width="84" as="alternateBounds" />
+          <mxGeometry height="20" width="89" x="88" as="geometry">
+            <mxRectangle height="20" width="89" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-18" parent="4hr_TFfe103dyEPW8xxa-15" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Шуйские&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="83" x="167" as="geometry">
-            <mxRectangle height="20" width="83" as="alternateBounds" />
+          <mxGeometry height="20" width="88" x="177" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-36" parent="4hr_TFfe103dyEPW8xxa-15" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" visible="0">
-          <mxGeometry height="20" width="83" x="250" as="geometry">
-            <mxRectangle height="20" width="83" as="alternateBounds" />
+          <mxGeometry height="20" width="88" x="265" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-19" parent="4hr_TFfe103dyEPW8xxa-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="20" width="333" y="120" as="geometry" />
+          <mxGeometry height="20" width="353" y="160" as="geometry" />
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-20" parent="4hr_TFfe103dyEPW8xxa-19" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font size=&quot;1&quot;&gt;Лжедмитрий&amp;nbsp;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="83" as="geometry">
-            <mxRectangle height="20" width="83" as="alternateBounds" />
+          <mxGeometry height="20" width="88" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-21" parent="4hr_TFfe103dyEPW8xxa-19" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1605-06&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="84" x="83" as="geometry">
-            <mxRectangle height="20" width="84" as="alternateBounds" />
+          <mxGeometry height="20" width="89" x="88" as="geometry">
+            <mxRectangle height="20" width="89" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-22" parent="4hr_TFfe103dyEPW8xxa-19" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Самозванец&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="83" x="167" as="geometry">
-            <mxRectangle height="20" width="83" as="alternateBounds" />
+          <mxGeometry height="20" width="88" x="177" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-37" parent="4hr_TFfe103dyEPW8xxa-19" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" visible="0">
-          <mxGeometry height="20" width="83" x="250" as="geometry">
-            <mxRectangle height="20" width="83" as="alternateBounds" />
+          <mxGeometry height="20" width="88" x="265" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-23" parent="4hr_TFfe103dyEPW8xxa-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="20" width="333" y="140" as="geometry" />
+          <mxGeometry height="20" width="353" y="180" as="geometry" />
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-24" parent="4hr_TFfe103dyEPW8xxa-23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Фёдор Годунов 2&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="83" as="geometry">
-            <mxRectangle height="20" width="83" as="alternateBounds" />
+          <mxGeometry height="20" width="88" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-25" parent="4hr_TFfe103dyEPW8xxa-23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1605&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="84" x="83" as="geometry">
-            <mxRectangle height="20" width="84" as="alternateBounds" />
+          <mxGeometry height="20" width="89" x="88" as="geometry">
+            <mxRectangle height="20" width="89" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-26" parent="4hr_TFfe103dyEPW8xxa-23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=2;colspan=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Годуновы&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="83" x="167" as="geometry">
-            <mxRectangle height="20" width="83" as="alternateBounds" />
+          <mxGeometry height="40" width="88" x="177" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-38" parent="4hr_TFfe103dyEPW8xxa-23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" visible="0">
-          <mxGeometry height="20" width="83" x="250" as="geometry">
-            <mxRectangle height="20" width="83" as="alternateBounds" />
+          <mxGeometry height="20" width="88" x="265" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-27" parent="4hr_TFfe103dyEPW8xxa-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="20" width="333" y="160" as="geometry" />
+          <mxGeometry height="20" width="353" y="200" as="geometry" />
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-28" parent="4hr_TFfe103dyEPW8xxa-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Борис Годунов&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="83" as="geometry">
-            <mxRectangle height="20" width="83" as="alternateBounds" />
+          <mxGeometry height="20" width="88" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-29" parent="4hr_TFfe103dyEPW8xxa-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1598-1605&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="84" x="83" as="geometry">
-            <mxRectangle height="20" width="84" as="alternateBounds" />
+          <mxGeometry height="20" width="89" x="88" as="geometry">
+            <mxRectangle height="20" width="89" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-30" parent="4hr_TFfe103dyEPW8xxa-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Годуновы&lt;/font&gt;" vertex="1" visible="0">
-          <mxGeometry height="20" width="83" x="167" as="geometry">
-            <mxRectangle height="20" width="83" as="alternateBounds" />
+          <mxGeometry height="20" width="88" x="177" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hr_TFfe103dyEPW8xxa-39" parent="4hr_TFfe103dyEPW8xxa-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" visible="0">
-          <mxGeometry height="20" width="83" x="250" as="geometry">
-            <mxRectangle height="20" width="83" as="alternateBounds" />
+          <mxGeometry height="20" width="88" x="265" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hr_TFfe103dyEPW8xxa-60" parent="4hr_TFfe103dyEPW8xxa-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
+          <mxGeometry height="20" width="353" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="4hr_TFfe103dyEPW8xxa-61" parent="4hr_TFfe103dyEPW8xxa-60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Фёдор 1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="88" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hr_TFfe103dyEPW8xxa-62" parent="4hr_TFfe103dyEPW8xxa-60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1598&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="89" x="88" as="geometry">
+            <mxRectangle height="20" width="89" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hr_TFfe103dyEPW8xxa-63" parent="4hr_TFfe103dyEPW8xxa-60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Рюрикович&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="88" x="177" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hr_TFfe103dyEPW8xxa-64" parent="4hr_TFfe103dyEPW8xxa-60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
+          <mxGeometry height="20" width="88" x="265" as="geometry">
+            <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
