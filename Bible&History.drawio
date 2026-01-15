@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.1">
   <diagram name="Страница-1" id="8q4mf4vvrSu58_n68NoI">
-    <mxGraphModel dx="3721" dy="3024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="4382" dy="3390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -478,22 +478,22 @@
         <mxCell id="4hr_TFfe103dyEPW8xxa-3" parent="4hr_TFfe103dyEPW8xxa-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="20" width="353" as="geometry" />
         </mxCell>
-        <mxCell id="4hr_TFfe103dyEPW8xxa-4" parent="4hr_TFfe103dyEPW8xxa-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#FFE6CC;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Правитель&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="4hr_TFfe103dyEPW8xxa-4" parent="4hr_TFfe103dyEPW8xxa-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000099;overflow=hidden;fillColor=#FFE6CC;top=0;left=0;bottom=0;right=0;pointerEvents=1;shadow=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Правитель&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="20" width="88" as="geometry">
             <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4hr_TFfe103dyEPW8xxa-5" parent="4hr_TFfe103dyEPW8xxa-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#FFE6CC;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Правление&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="4hr_TFfe103dyEPW8xxa-5" parent="4hr_TFfe103dyEPW8xxa-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#FFE6CC;top=0;left=0;bottom=0;right=0;pointerEvents=1;shadow=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Правление&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="20" width="89" x="88" as="geometry">
             <mxRectangle height="20" width="89" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4hr_TFfe103dyEPW8xxa-6" parent="4hr_TFfe103dyEPW8xxa-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#FFE6CC;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Династия&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="4hr_TFfe103dyEPW8xxa-6" parent="4hr_TFfe103dyEPW8xxa-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#FFE6CC;top=0;left=0;bottom=0;right=0;pointerEvents=1;shadow=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Династия&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="20" width="88" x="177" as="geometry">
             <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4hr_TFfe103dyEPW8xxa-33" parent="4hr_TFfe103dyEPW8xxa-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#FFE6CC;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1">
+        <mxCell id="4hr_TFfe103dyEPW8xxa-33" parent="4hr_TFfe103dyEPW8xxa-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#FFE6CC;top=0;left=0;bottom=0;right=0;pointerEvents=1;shadow=1;" vertex="1">
           <mxGeometry height="20" width="88" x="265" as="geometry">
             <mxRectangle height="20" width="88" as="alternateBounds" />
           </mxGeometry>
