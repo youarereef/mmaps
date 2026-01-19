@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.2">
   <diagram name="Страница-1" id="8q4mf4vvrSu58_n68NoI">
-    <mxGraphModel dx="3212" dy="2743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="3537" dy="2922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -769,7 +769,7 @@
         <mxCell id="NXVVdYKt9-abdVDAd8H9-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Грузия офиц. приняла Х. как гос. религию. через проповедь св. Нины.&lt;/span&gt;" vertex="1">
           <mxGeometry height="28" width="249.5" x="-611.75" y="188" as="geometry" />
         </mxCell>
-        <mxCell id="YY1b6fjj3qxK0YEuZr0K-1" edge="1" parent="1" source="NXVVdYKt9-abdVDAd8H9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0080;endArrow=classicThin;endFill=0;strokeWidth=2;" target="oz2IcTv8X59xEperDKGK-1">
+        <mxCell id="YY1b6fjj3qxK0YEuZr0K-1" edge="1" parent="1" source="NXVVdYKt9-abdVDAd8H9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=none;endArrow=classicThin;endFill=0;strokeWidth=2;" target="oz2IcTv8X59xEperDKGK-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NXVVdYKt9-abdVDAd8H9-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;РПЦ не общается:&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;1. РПСЦ (старообрядцы);&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;2. Константинопольский патриархат (поддержка ПЦУ);&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;3. Элладской, Кипрской (личные разрывы - поддержка ПЦУ);&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;4. ААЦ, Коптская, Сирийская, Эфиопская, Эритрейская (дохалкидонскими церквями - Халкидон 451 г.);&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;5. Католики, протестанты.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;РПЦ входит во Всемирный Совет Церквей с 1961 года - экуменисты.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
@@ -860,6 +860,12 @@
         </mxCell>
         <mxCell id="YY1b6fjj3qxK0YEuZr0K-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="ИЕРАРХИЧЕСКИЙ&amp;nbsp;&lt;div&gt;АВТОРИТЕТ&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="126" x="477" y="-90" as="geometry" />
+        </mxCell>
+        <mxCell id="YY1b6fjj3qxK0YEuZr0K-23" edge="1" parent="1" source="oz2IcTv8X59xEperDKGK-1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fad9d5;strokeColor=#ae4132;" target="NXVVdYKt9-abdVDAd8H9-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-260" y="-1140" as="sourcePoint" />
+            <mxPoint x="-210" y="-1190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
