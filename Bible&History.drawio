@@ -838,19 +838,19 @@
         <mxCell id="YY1b6fjj3qxK0YEuZr0K-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Чехословацкая" vertex="1">
           <mxGeometry height="40" width="115" x="627" y="-1209" as="geometry" />
         </mxCell>
-        <mxCell id="YY1b6fjj3qxK0YEuZr0K-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="ИСТОЧНИКИ АВТОРИТЕТА" vertex="1">
+        <mxCell id="YY1b6fjj3qxK0YEuZr0K-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="ИСТОЧНИКИ АВТОРИТЕТА" vertex="1">
           <mxGeometry height="25" width="206" x="223" y="-39" as="geometry" />
         </mxCell>
-        <mxCell id="YY1b6fjj3qxK0YEuZr0K-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="СВЯЩЕННОЕ ПИСАНИЕ" vertex="1">
+        <mxCell id="YY1b6fjj3qxK0YEuZr0K-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="СВЯЩЕННОЕ ПИСАНИЕ" vertex="1">
           <mxGeometry height="45" width="126" x="77" y="-90" as="geometry" />
         </mxCell>
-        <mxCell id="YY1b6fjj3qxK0YEuZr0K-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="СВЯЩЕННОЕ ПРИДАНИЕ" vertex="1">
+        <mxCell id="YY1b6fjj3qxK0YEuZr0K-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="СВЯЩЕННОЕ ПРИДАНИЕ" vertex="1">
           <mxGeometry height="45" width="126" x="210" y="-90" as="geometry" />
         </mxCell>
-        <mxCell id="YY1b6fjj3qxK0YEuZr0K-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="ВСЕЛЕНСКИЕ СОБОРЫ" vertex="1">
+        <mxCell id="YY1b6fjj3qxK0YEuZr0K-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="ВСЕЛЕНСКИЕ СОБОРЫ" vertex="1">
           <mxGeometry height="45" width="126" x="344" y="-90" as="geometry" />
         </mxCell>
-        <mxCell id="YY1b6fjj3qxK0YEuZr0K-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="ИЕРАРХИЧЕСКИЙ&amp;nbsp;&lt;div&gt;АВТОРИТЕТ&lt;/div&gt;" vertex="1">
+        <mxCell id="YY1b6fjj3qxK0YEuZr0K-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="ИЕРАРХИЧЕСКИЙ&amp;nbsp;&lt;div&gt;АВТОРИТЕТ&lt;/div&gt;" vertex="1">
           <mxGeometry height="45" width="126" x="477" y="-90" as="geometry" />
         </mxCell>
       </root>
