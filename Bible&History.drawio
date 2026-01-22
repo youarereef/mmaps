@@ -897,6 +897,12 @@
         <mxCell id="WGCexJtR8hm7sUPajaTr-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Сирийская" vertex="1">
           <mxGeometry height="40" width="70" x="549" y="-1090" as="geometry" />
         </mxCell>
+        <mxCell id="WGCexJtR8hm7sUPajaTr-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 204); font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;ААЦ - Христос истинный Бог и Человек - одна БогоЧеловеческая природа (миафизитство).&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 204); font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 204); font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Византийское православие - говорит о 2-х природах Божественной и человеческой в 1-м лице.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(102, 0, 51); font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(102, 0, 51); font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Часть богословов считает различия терминологическими.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(102, 0, 51); font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Официальный разрыв общения после Халкидона до сих пор не преодолён. Полное взаимное признание как единой Православной церкви отсутствует.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="180" width="290" x="860" y="-1180" as="geometry" />
+        </mxCell>
+        <mxCell id="WGCexJtR8hm7sUPajaTr-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#0000cc&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;Не принимают 4й Вселенский собор (Халкидонский, 451 г.), который является обязательным для Православных Церквей.&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="61" width="290" x="320" y="-1050" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
