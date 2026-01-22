@@ -244,19 +244,19 @@
           <mxGeometry height="28" width="249.5" x="-611.25" y="94" as="geometry" />
         </mxCell>
         <mxCell id="oXWOiS3n67Rh-4YMzhQA-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;395&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="-680" y="65" as="geometry" />
+          <mxGeometry height="30" width="60" x="-680" y="57" as="geometry" />
         </mxCell>
-        <mxCell id="oXWOiS3n67Rh-4YMzhQA-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Разделение РИ на З. (Гонорий) и В. (Аркадий).&lt;/span&gt;" vertex="1">
+        <mxCell id="oXWOiS3n67Rh-4YMzhQA-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;Разделение РИ на З. (Гонорий) и В. (Аркадий).&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="28" width="249.5" x="-611.25" y="57" as="geometry" />
         </mxCell>
         <mxCell id="oXWOiS3n67Rh-4YMzhQA-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="800" vertex="1">
-          <mxGeometry height="30" width="60" x="-680" y="45" as="geometry" />
+          <mxGeometry height="30" width="60" x="-680" y="41" as="geometry" />
         </mxCell>
         <mxCell id="oXWOiS3n67Rh-4YMzhQA-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;Иконоборцы&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="28" width="71.25" x="-611.75" y="74" as="geometry" />
         </mxCell>
         <mxCell id="oXWOiS3n67Rh-4YMzhQA-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="988" vertex="1">
-          <mxGeometry height="30" width="60" x="-680" y="25" as="geometry" />
+          <mxGeometry height="30" width="60" x="-680" y="21" as="geometry" />
         </mxCell>
         <mxCell id="oXWOiS3n67Rh-4YMzhQA-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Крещение Руси. Князь Владимир.&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;Распространение кириллицы вместе с христианством.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="28" width="311.25" x="-611.25" y="31" as="geometry" />
@@ -754,11 +754,11 @@
         <mxCell id="NXVVdYKt9-abdVDAd8H9-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="863" vertex="1">
           <mxGeometry height="30" width="60" x="-980" y="32" as="geometry" />
         </mxCell>
-        <mxCell id="NXVVdYKt9-abdVDAd8H9-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="301" vertex="1">
+        <mxCell id="NXVVdYKt9-abdVDAd8H9-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;301&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="43" x="-668.5" y="375" as="geometry" />
         </mxCell>
         <mxCell id="NXVVdYKt9-abdVDAd8H9-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;color: rgb(153, 0, 0);&quot;&gt;Армения офиц. приняла Х., как гос. религию. при царе Трдате 3. А - 1-е Х. гос-во в мире!&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="160" x="-610" y="374" as="geometry" />
+          <mxGeometry height="40" width="440" x="-630" y="370" as="geometry" />
         </mxCell>
         <mxCell id="NXVVdYKt9-abdVDAd8H9-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="326" vertex="1">
           <mxGeometry height="30" width="60" x="-680" y="161" as="geometry" />
