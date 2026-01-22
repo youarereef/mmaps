@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.4">
   <diagram name="Страница-1" id="8q4mf4vvrSu58_n68NoI">
-    <mxGraphModel dx="3721" dy="3024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="3907" dy="3127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -869,6 +869,15 @@
         </mxCell>
         <mxCell id="YY1b6fjj3qxK0YEuZr0K-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#0e8088;fillColor=#b0e3e6;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Арамейский, иврит, греческий&lt;/span&gt;" vertex="1">
           <mxGeometry height="20" width="150" x="-500" y="506" as="geometry" />
+        </mxCell>
+        <mxCell id="WGCexJtR8hm7sUPajaTr-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b style=&quot;background-color: rgb(153, 255, 255);&quot;&gt;Католики&lt;/b&gt;&lt;div&gt;1.2-1.36 млрд. = 50% христиан в мире&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="370" x="160" y="-1520" as="geometry" />
+        </mxCell>
+        <mxCell id="WGCexJtR8hm7sUPajaTr-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b style=&quot;background-color: rgb(255, 204, 230);&quot;&gt;Протестанты&lt;/b&gt;&lt;div&gt;560-800 млн.= 30-37% христиан в мире&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="230" x="300" y="-1475" as="geometry" />
+        </mxCell>
+        <mxCell id="WGCexJtR8hm7sUPajaTr-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b style=&quot;background-color: rgb(230, 255, 204);&quot;&gt;Православные&lt;/b&gt;&lt;div&gt;300-320 млн. = 12% христиан в мире&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="209" x="320" y="-1430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
