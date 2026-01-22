@@ -802,21 +802,21 @@
           <mxGeometry height="170" width="400" x="-900" y="1100" as="geometry" />
         </mxCell>
         <mxCell id="YY1b6fjj3qxK0YEuZr0K-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Православная церковь" vertex="1">
-          <mxGeometry height="20" width="510" x="290" y="-1350" as="geometry" />
+          <mxGeometry height="20" width="510" x="290" y="-1359" as="geometry" />
         </mxCell>
-        <mxCell id="YY1b6fjj3qxK0YEuZr0K-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Константинопольская (Стамбул)" vertex="1">
-          <mxGeometry height="40" width="150" x="290" y="-1320" as="geometry" />
+        <mxCell id="YY1b6fjj3qxK0YEuZr0K-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Константинопольская (Стамбул)&amp;nbsp;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0); font-size: 10px;&quot;&gt;&lt;b&gt;!! нет общения&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="150" x="290" y="-1330" as="geometry" />
         </mxCell>
         <mxCell id="YY1b6fjj3qxK0YEuZr0K-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Александрийская (Египет)" vertex="1">
-          <mxGeometry height="40" width="110" x="450" y="-1320" as="geometry" />
+          <mxGeometry height="50" width="110" x="450" y="-1330" as="geometry" />
         </mxCell>
         <mxCell id="YY1b6fjj3qxK0YEuZr0K-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Антиохийская (Сирия)" vertex="1">
-          <mxGeometry height="40" width="110" x="570" y="-1320" as="geometry" />
+          <mxGeometry height="50" width="110" x="570" y="-1330" as="geometry" />
         </mxCell>
         <mxCell id="YY1b6fjj3qxK0YEuZr0K-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Иерусалимская" vertex="1">
-          <mxGeometry height="40" width="110" x="690" y="-1320" as="geometry" />
+          <mxGeometry height="50" width="110" x="690" y="-1330" as="geometry" />
         </mxCell>
-        <mxCell id="YY1b6fjj3qxK0YEuZr0K-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Русская&lt;div&gt;(Москва)&lt;/div&gt;" vertex="1">
+        <mxCell id="YY1b6fjj3qxK0YEuZr0K-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;fontColor=#333333;strokeColor=#666666;" value="Русская&lt;div&gt;(Москва)&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="70" x="290" y="-1270" as="geometry" />
         </mxCell>
         <mxCell id="YY1b6fjj3qxK0YEuZr0K-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Сербская (Белград)" vertex="1">
@@ -831,20 +831,20 @@
         <mxCell id="YY1b6fjj3qxK0YEuZr0K-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Болгарская (София)" vertex="1">
           <mxGeometry height="40" width="70" x="610" y="-1270" as="geometry" />
         </mxCell>
-        <mxCell id="YY1b6fjj3qxK0YEuZr0K-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Кипрская" vertex="1">
-          <mxGeometry height="40" width="70" x="392" y="-1209" as="geometry" />
+        <mxCell id="YY1b6fjj3qxK0YEuZr0K-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Кипрская&lt;div&gt;&lt;b style=&quot;color: rgb(255, 0, 0); font-size: 10px;&quot;&gt;!! нет общения&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="69" width="88" x="390" y="-1220" as="geometry" />
         </mxCell>
-        <mxCell id="YY1b6fjj3qxK0YEuZr0K-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Греческая (Элладская)" vertex="1">
-          <mxGeometry height="40" width="90" x="292" y="-1209" as="geometry" />
+        <mxCell id="YY1b6fjj3qxK0YEuZr0K-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Греческая (Элладская)&lt;div&gt;&lt;b style=&quot;color: rgb(255, 0, 0); font-size: 10px;&quot;&gt;!! нет общения&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="69" width="90" x="290" y="-1220" as="geometry" />
         </mxCell>
         <mxCell id="YY1b6fjj3qxK0YEuZr0K-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Польская" vertex="1">
-          <mxGeometry height="40" width="70" x="552" y="-1209" as="geometry" />
+          <mxGeometry height="40" width="70" x="568" y="-1220" as="geometry" />
         </mxCell>
         <mxCell id="YY1b6fjj3qxK0YEuZr0K-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Албанская" vertex="1">
-          <mxGeometry height="40" width="70" x="472" y="-1209" as="geometry" />
+          <mxGeometry height="40" width="70" x="488" y="-1220" as="geometry" />
         </mxCell>
         <mxCell id="YY1b6fjj3qxK0YEuZr0K-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Чехословацкая" vertex="1">
-          <mxGeometry height="40" width="115" x="627" y="-1209" as="geometry" />
+          <mxGeometry height="40" width="115" x="643" y="-1220" as="geometry" />
         </mxCell>
         <mxCell id="YY1b6fjj3qxK0YEuZr0K-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="ИСТОЧНИКИ АВТОРИТЕТА" vertex="1">
           <mxGeometry height="25" width="260" x="210" y="-43" as="geometry" />
